@@ -45,8 +45,8 @@ layers:
   - $$mdi:keyboard-esc$$
   - LGUI
   - NUMBER
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-space$$
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
   NUMBER:
@@ -94,8 +94,8 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:apple-keyboard-command$$
   - {type: held}
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-space$$
   - Fn
   - $$mdi:apple-keyboard-option$$
   SYMBOL:
@@ -143,8 +143,8 @@ layers:
   - $$mdi:keyboard-esc$$
   - $$mdi:apple-keyboard-command$$
   - Fn
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-space$$
   - {type: held}
   - $$mdi:apple-keyboard-option$$
   Fn:
@@ -192,7 +192,7 @@ layers:
   - $$mdi:keyboard-esc$$
   - $$mdi:apple-keyboard-command$$
   - {type: held}
-  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-space$$
   - {type: held}
   - $$mdi:apple-keyboard-option$$
