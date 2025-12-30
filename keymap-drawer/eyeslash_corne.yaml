@@ -28,7 +28,7 @@ layers:
   - T
   - N
   - S
-  - $$mdi:backspace-reverse-outline$$
+  - Ctl+$$mdi:apple-keyboard-shift$$
   - $$mdi:apple-keyboard-control$$
   - {t: '''', s: '"'}
   - Q
